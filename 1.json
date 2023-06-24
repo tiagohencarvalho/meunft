@@ -1,0 +1,12 @@
+{
+  "name": "Tiago NFT - 0",
+  "description": "Tiago Art",
+  "image": "https://raw.githubusercontent.com/tiagohencarvalho/meunft/main/nft2.gif",
+  "external_url": "https://openseacreatures.io",
+  "attributes": [
+    {
+      "trait_type": "Art",
+      "value": "1/1"
+    }
+  ]
+}

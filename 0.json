@@ -1,10 +1,10 @@
 {
-  "description": "O Corsa Piquet foi desenvolvido como uma homenagem ao renomado piloto brasileiro Nelson Piquet, que na época era tricampeão mundial de Fórmula 1 e contava com o patrocínio da Arisco. A cor escolhida para essa versão foi o Amarelo Gris, que se destacava nas ruas e remetia ao sucesso do piloto.", 
+  "description": Tiago Art", 
   "external_url": "https://openseacreatures.io/3", 
-  "image": "https://mundofixa.com/wp-content/uploads/2021/12/218488807_5677785035624722_1301447717255692181_n-696x522.jpg", 
-  "name": "Corsa Piquet",
+  "image": "https://i.seadn.io/gae/uTv2V_mQPDRKoa0wkC9UjJd85Cq8Ooc3iXro2rChw_ksMbs200jz8o62_DzA2cUA09chS5PPop4gUEPMq72Dy4hyy6QuIf0lfvR9mA?auto=format&dpr=1&w=1000", 
+  "name": "Tiago NFT",
   "attributes": [    {
-      "trait_type": "Carro", 
-      "value": "Cosa Piquet"
+      "trait_type": "Art", 
+      "value": "1/1"
     }]
 }

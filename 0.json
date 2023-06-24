@@ -1,11 +1,11 @@
 {
-  "description": "Tiago Art", 
-  "external_url": "https://openseacreatures.io", 
-  "image": "https://github.com/tiagohencarvalho/meunft/blob/main/ezgif.com-gif-maker.gif?raw=true", 
   "name": "Tiago NFT - 0",
+  "description": "Tiago Art",
+  "image": "https://raw.githubusercontent.com/tiagohencarvalho/meunft/main/ezgif.com-gif-maker.gif",
+  "external_url": "https://openseacreatures.io",
   "attributes": [
     {
-      "trait_type": "Art", 
+      "trait_type": "Art",
       "value": "1/1"
     }
   ]

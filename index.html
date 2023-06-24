@@ -52,7 +52,7 @@
           //provider = ethers.getDefaultProvider();
           provider = new ethers.InfuraProvider("maticmum");
           network = await provider.getNetwork();
-          contract = new ethers.Contract("0x96311083e6Df0e990138D585C668c2708Ed86eB7", abi, provider);
+          contract = new ethers.Contract("0xB8Abed49fb68b23c2DF9a07e8f6f086c633522B1", abi, provider);
           console.log("selected provider: ", provider);
           console.log("network:", network);
         } else {
@@ -66,7 +66,7 @@
           alert("O Metamask irá pedir aprovação para acessar essa página.\nPor favor, aceite.");
           signer = await provider.getSigner();
           network = await provider.getNetwork();
-          contract = new ethers.Contract("0x7a14081375471f60b60D5c68adcc542BA436ED6d", abi, signer);
+          contract = new ethers.Contract("0xB8Abed49fb68b23c2DF9a07e8f6f086c633522B1", abi, signer);
           console.log("signer: ", signer);
           console.log("contract: ", contract);
           const networkAccount = document.getElementById("networkAccount");
